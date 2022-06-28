@@ -1,5 +1,5 @@
-/* plot_car Ver3.5*/
-
+/* Plot_car Ver4.0 
+   eureka.niigata.jp  */
 let wait = 0;
 let Tugi_R = 0;
 let Tugi_L = 0;
